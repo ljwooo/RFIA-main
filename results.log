@@ -1,0 +1,157 @@
+results.log
+results.log
+results.log
+results.log
+results.log
+results.log
+results.log
+results.log
+./adv/ILPD_eps=8_coef=0.005_backward_gradinput/, resnet50, 62.7
+results.log
+results.log
+results.log
+results.log
+./adv/ILPD_eps=8_coef=0.005_backward_gradinput/, vit_base_patch16_224, 17.5
+results.log
+./adv/ILPD_eps=8_coef=0.005_backward_gradinput/, vit_base_patch16_224, 17.5
+results.log
+./adv/ILPD_eps=8_coef=0.005_backward_gradinput/, resnet50, 62.7
+results.log
+./adv/ILPD_eps=8/, resnet50, 68.0
+results.log
+./adv/ILPD_eps=8/, resnet152, 53.3
+results.log
+./adv/I-FGSM_eps=8/, resnet50, 45.0
+results.log
+./adv/FGSM_eps=8/, resnet50, 36.6
+results.log
+./adv/FGSM_eps=8/, densenet121, 46.6
+results.log
+./adv/ILPD_eps=8/, densenet121, 80.0
+results.log
+results.log
+results.log
+results.log
+./adv/ILPD_eps=8/, inception_v3, 58.7
+results.log
+./adv/ILPD_eps=8/, mixer_b16_224_in21k, 100.0
+results.log
+results.log
+./adv/ILPD_eps=8/, mixer_b16_224_miil, 20.0
+results.log
+./adv/FGSM_eps=8/, mixer_b16_224_miil, 14.4
+results.log
+./adv/FGSM_eps=8/, deit_base_patch16_224, 15.8
+results.log
+results.log
+results.log
+./adv/FGSM_eps=8/, swin_base_patch4_window7_224, 11.4
+results.log
+./adv/ILPD_eps=8/, swin_base_patch4_window7_224, 17.9
+results.log
+results.log
+./adv/ILPD_eps=8/, vgg19, 71.4
+results.log
+./adv/FGSM_eps=8/, vgg19, 49.7
+results.log
+results.log
+results.log
+results.log
+results.log
+results.log
+results.log
+results.log
+results.log
+results.log
+results.log
+results.log
+results.log
+results.log
+results.log
+results.log
+results.log
+results.log
+results.log
+results.log
+results.log
+results.log
+results.log
+results.log
+results.log
+results.log
+results.log
+results.log
+results.log
+results.log
+results.log
+results.log
+results.log
+results.log
+results.log
+results.log
+results.log
+results.log
+results.log
+results.log
+results.log
+results.log
+results.log
+results.log
+results.log
+results.log
+results.log
+results.log
+results.log
+results.log
+results.log
+results.log
+results.log
+results.log
+results.log
+results.log
+results.log
+results.log
+results.log
+results.log
+results.log
+results.log
+results.log
+results.log
+results.log
+results.log
+results.log
+results.log
+results.log
+results.log
+results.log
+results.log
+results.log
+results.log
+results.log
+results.log
+results.log
+results.log
+results.log
+results.log
+results.log
+results.log
+'(ReadTimeoutError("HTTPSConnectionPool(host='huggingface.co', port=443): Read timed out. (read timeout=10)"), '(Request ID: 62550a70-d9ea-4e47-b738-4b3b0b033ad9)')' thrown while requesting HEAD https://huggingface.co/timm/resnet50.a1_in1k/resolve/main/model.safetensors
+'(ReadTimeoutError("HTTPSConnectionPool(host='cdn-lfs.huggingface.co', port=443): Read timed out. (read timeout=10.0)"), '(Request ID: 5208521c-d3c4-4b71-9453-c87e98cb1042)')' thrown while requesting GET https://cdn-lfs.huggingface.co/repos/b0/7c/b07c8514311ce8b4837f2b7bd470e8ff9e31efce9ecc5a1d7884e4ebb95269bd/c91efffdecf294741da6af78a1a17f3fb9891706982bee200f2093afe5c2e341?response-content-disposition=attachment%3B+filename*%3DUTF-8%27%27pytorch_model.bin%3B+filename%3D%22pytorch_model.bin%22%3B&response-content-type=application%2Foctet-stream&Expires=1694311481&Policy=eyJTdGF0ZW1lbnQiOlt7IkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTY5NDMxMTQ4MX19LCJSZXNvdXJjZSI6Imh0dHBzOi8vY2RuLWxmcy5odWdnaW5nZmFjZS5jby9yZXBvcy9iMC83Yy9iMDdjODUxNDMxMWNlOGI0ODM3ZjJiN2JkNDcwZThmZjllMzFlZmNlOWVjYzVhMWQ3ODg0ZTRlYmI5NTI2OWJkL2M5MWVmZmZkZWNmMjk0NzQxZGE2YWY3OGExYTE3ZjNmYjk4OTE3MDY5ODJiZWUyMDBmMjA5M2FmZTVjMmUzNDE%7EcmVzcG9uc2UtY29udGVudC1kaXNwb3NpdGlvbj0qJnJlc3BvbnNlLWNvbnRlbnQtdHlwZT0qIn1dfQ__&Signature=WK08zxhCNW3aR6kZ-jAgU%7ExgOiM2dYQWY3R3zv4gP2vptBznjdiFY1PR90ivPMAIrO9MdQmOIuw3V01-oICRMcDHNy1g1B5Vy180lrAbLnBBQCZbf5Ok9Dp76A7MNaM8gbBca7PMu6MnTOfu7aonStj06XoNc8J5a-TJAzHgXGajarijyDxk9WG0QGJ0YhXcZbUBj-2RfVk8vXcGjZ7LibrERiM9-Y%7E8sS6dOr%7Ewh5FYYq1gXNMPo4yTclf7MvlIObjNkYk%7ERihzvjJzKNjmokLSbJoTyqZUBUZJ-dVJ7eWyNPKCFMB2wTimwUBOwVhTxnSxPfmdr7pfKBz9htBRNQ__&Key-Pair-Id=KVTP0A1DKRTAX
+results.log
+'(MaxRetryError("HTTPSConnectionPool(host='huggingface.co', port=443): Max retries exceeded with url: /timm/resnet50.a1_in1k/resolve/main/model.safetensors (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f4674946080>, 'Connection to huggingface.co timed out. (connect timeout=10)'))"), '(Request ID: 2112feaf-29e0-411a-9e28-44867eeda471)')' thrown while requesting HEAD https://huggingface.co/timm/resnet50.a1_in1k/resolve/main/model.safetensors
+'(MaxRetryError("HTTPSConnectionPool(host='huggingface.co', port=443): Max retries exceeded with url: /timm/resnet50.a1_in1k/resolve/main/pytorch_model.bin (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f4674946470>, 'Connection to huggingface.co timed out. (connect timeout=10)'))"), '(Request ID: 00609d88-dbf5-4258-aa2d-78d9faa15d7b)')' thrown while requesting HEAD https://huggingface.co/timm/resnet50.a1_in1k/resolve/main/pytorch_model.bin
+results.log
+'(MaxRetryError("HTTPSConnectionPool(host='huggingface.co', port=443): Max retries exceeded with url: /timm/resnet50.a1_in1k/resolve/main/model.safetensors (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f1de09ca080>, 'Connection to huggingface.co timed out. (connect timeout=10)'))"), '(Request ID: 259603b6-e1e4-4e7a-87c1-1394454d63db)')' thrown while requesting HEAD https://huggingface.co/timm/resnet50.a1_in1k/resolve/main/model.safetensors
+'(MaxRetryError("HTTPSConnectionPool(host='huggingface.co', port=443): Max retries exceeded with url: /timm/resnet50.a1_in1k/resolve/main/pytorch_model.bin (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f1de09ca470>, 'Connection to huggingface.co timed out. (connect timeout=10)'))"), '(Request ID: 6f939657-48fb-46f7-97ab-fa15749d9fc8)')' thrown while requesting HEAD https://huggingface.co/timm/resnet50.a1_in1k/resolve/main/pytorch_model.bin
+results.log
+'(MaxRetryError("HTTPSConnectionPool(host='huggingface.co', port=443): Max retries exceeded with url: /timm/resnet50.a1_in1k/resolve/main/model.safetensors (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f4565322080>, 'Connection to huggingface.co timed out. (connect timeout=10)'))"), '(Request ID: 12258e6a-a317-4a1d-ab34-860d38a1fca0)')' thrown while requesting HEAD https://huggingface.co/timm/resnet50.a1_in1k/resolve/main/model.safetensors
+'(MaxRetryError("HTTPSConnectionPool(host='huggingface.co', port=443): Max retries exceeded with url: /timm/resnet50.a1_in1k/resolve/main/pytorch_model.bin (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f4565322470>, 'Connection to huggingface.co timed out. (connect timeout=10)'))"), '(Request ID: 99435fef-f85d-4e17-982d-c740d24f9f65)')' thrown while requesting HEAD https://huggingface.co/timm/resnet50.a1_in1k/resolve/main/pytorch_model.bin
+results.log
+'(MaxRetryError("HTTPSConnectionPool(host='huggingface.co', port=443): Max retries exceeded with url: /timm/resnet50.a1_in1k/resolve/main/model.safetensors (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f1cf0839f90>, 'Connection to huggingface.co timed out. (connect timeout=10)'))"), '(Request ID: 5e4ac70a-6e6b-4d6e-ae94-4d5ffb203a8e)')' thrown while requesting HEAD https://huggingface.co/timm/resnet50.a1_in1k/resolve/main/model.safetensors
+'(MaxRetryError("HTTPSConnectionPool(host='huggingface.co', port=443): Max retries exceeded with url: /timm/resnet50.a1_in1k/resolve/main/pytorch_model.bin (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f1cf083a380>, 'Connection to huggingface.co timed out. (connect timeout=10)'))"), '(Request ID: 7bc0e7cc-8c25-47a4-b59c-0b82e0364d5b)')' thrown while requesting HEAD https://huggingface.co/timm/resnet50.a1_in1k/resolve/main/pytorch_model.bin
+results.log
+'(MaxRetryError("HTTPSConnectionPool(host='huggingface.co', port=443): Max retries exceeded with url: /timm/resnet50.a1_in1k/resolve/main/model.safetensors (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fa7dab320b0>, 'Connection to huggingface.co timed out. (connect timeout=10)'))"), '(Request ID: 3fd73d6b-dd71-4868-9e62-8b3caaf5d307)')' thrown while requesting HEAD https://huggingface.co/timm/resnet50.a1_in1k/resolve/main/model.safetensors
+'(MaxRetryError("HTTPSConnectionPool(host='huggingface.co', port=443): Max retries exceeded with url: /timm/resnet50.a1_in1k/resolve/main/pytorch_model.bin (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fa7dab324a0>, 'Connection to huggingface.co timed out. (connect timeout=10)'))"), '(Request ID: 57ce5865-2101-42e0-bafe-03abc315d3bb)')' thrown while requesting HEAD https://huggingface.co/timm/resnet50.a1_in1k/resolve/main/pytorch_model.bin
+results.log
+'(MaxRetryError("HTTPSConnectionPool(host='huggingface.co', port=443): Max retries exceeded with url: /timm/resnet50.a1_in1k/resolve/main/model.safetensors (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f40103e6080>, 'Connection to huggingface.co timed out. (connect timeout=10)'))"), '(Request ID: 04148372-40aa-4f9f-abd9-72e6d1d77df6)')' thrown while requesting HEAD https://huggingface.co/timm/resnet50.a1_in1k/resolve/main/model.safetensors
+'(MaxRetryError("HTTPSConnectionPool(host='huggingface.co', port=443): Max retries exceeded with url: /timm/resnet50.a1_in1k/resolve/main/pytorch_model.bin (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f40103e6470>, 'Connection to huggingface.co timed out. (connect timeout=10)'))"), '(Request ID: a7b339e5-75f8-447a-9a86-7326af6ac914)')' thrown while requesting HEAD https://huggingface.co/timm/resnet50.a1_in1k/resolve/main/pytorch_model.bin
