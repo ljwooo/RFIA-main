@@ -5,6 +5,7 @@ import numpy as np
 from .utils import update_and_clip, to_np_uint8
 # import tensorflow as tf
 # from skimage.measure import compare_ssim as ssim
+#attack
 
 __all__ = ["RFIA"]
 origin_grad = 0
